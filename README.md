@@ -7,7 +7,7 @@
 
 - 🎓 I hold a Master's degree in International Business from Tilburg University.
 
-- 🔭 I’m currently working on: [Shelter project](https://rolling-scopes-school.github.io/petruse4ka-JSFEPRESCHOOL2024Q2/shelter)
+- 🔭 I’m currently working on: [Shelter project](https://petruse4ka.github.io/Shelter/)
 
 - 🌱 I’m currently learning: **JS**
 
