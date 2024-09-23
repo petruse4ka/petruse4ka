@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **JS**
 
-- 📫 How to reach me (Discord): **petrusja#6082**
+- 📫 How to reach me (Discord): [petrusja](https://discordapp.com/users/448093026095595530)
 
 - 📄 Know about my experiences: [https://petruse4ka.github.io/rsschool-cv/](https://petruse4ka.github.io/rsschool-cv/)
 
