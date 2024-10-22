@@ -11,7 +11,7 @@
 
 - 🎓 **Business connoisseur!** I hold a Master's degree in International Business from Tilburg University.
   
-- 🌱 **Currently Mastering:** JavaScript. Slowly but surely, I’m becoming a guru of `console.log()`!
+- 🌱 **Currently Mastering JavaScript** . Slowly but surely, I’m becoming a guru of `console.log()`!
 
 - 📫 **Reach me on Discord:** [petrusja](https://discordapp.com/users/448093026095595530).
 
