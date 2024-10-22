@@ -9,11 +9,9 @@
 
 ---
 
-- 🎓 **Mastered the art of business!** I hold a Master's degree in International Business from Tilburg University, where I spent countless hours reading case studies and drinking coffee.
+- 🎓 **Mastered the art of business!** I hold a Master's degree in International Business from Tilburg University.
   
-- 🔭 **Current project:** I'm working on the [Shelter project](https://petruse4ka.github.io/Shelter/), making the world a better place for both code and animals.
-
-- 🌱 **Learning:** JavaScript. Slowly but surely, I’m becoming a master of `console.log()`!
+- 🌱 **Currently Mastering:** JavaScript. Slowly but surely, I’m becoming a guru of `console.log()`!
 
 - 💬 **Fun fact:** I once wrote a project requirement document so detailed, even I got confused.
 
