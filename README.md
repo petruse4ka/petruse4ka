@@ -13,7 +13,7 @@
   
 - 🌱 **Currently Mastering:** JavaScript. Slowly but surely, I’m becoming a guru of `console.log()`!
 
-- 📫 **Reach me on Discord:** [petrusja](https://discordapp.com/users/448093026095595530) – Feel free to ping me with memes or questions (or both!).
+- 📫 **Reach me on Discord:** [petrusja](https://discordapp.com/users/448093026095595530).
 
 - 📄 **Want to see my professional side?** Check out my [CV](https://petruse4ka.github.io/rsschool-cv/).
 
