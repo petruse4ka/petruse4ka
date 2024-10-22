@@ -7,8 +7,6 @@
 
 <p align="left">For over 10 years I've managed business projects, but now I've moved on to coding. I used to write detailed project requirements, and now I get to follow them - finally experiencing the joy of my own strict guidelines!</p>
 
----
-
 - 🎓 **Business connoisseur!** I hold a Master's degree in International Business from Tilburg University.
   
 - 🌱 **Currently Mastering JavaScript.** Slowly but surely, I’m becoming a guru of `console.log()`!
