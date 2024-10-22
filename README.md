@@ -9,7 +9,7 @@
 
 ---
 
-- 🎓 **Mastered the art of business!** I hold a Master's degree in International Business from Tilburg University.
+- 🎓 **Business connoisseur!** I hold a Master's degree in International Business from Tilburg University.
   
 - 🌱 **Currently Mastering:** JavaScript. Slowly but surely, I’m becoming a guru of `console.log()`!
 
