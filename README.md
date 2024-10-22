@@ -11,6 +11,10 @@
   
 - 🌱 **Currently Mastering JavaScript.** Slowly but surely, I’m becoming a guru of `console.log()`!
 
+- 🏃 **I can sprint 100m faster than my Wi-Fi connection** — under 15 seconds! 
+
+- 🎮 **I'm Faceit Level 10 in CS2** — basically, a digital ninja with a keyboard and a mouse!
+
 - 📫 **Reach me on Discord:** [petrusja](https://discordapp.com/users/448093026095595530).
 
 - 📄 **Want to see my professional side?** Check out my [CV](https://petruse4ka.github.io/rsschool-cv/).
