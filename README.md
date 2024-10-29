@@ -7,7 +7,7 @@
 
 <p align="left">For over 10 years I've managed business projects. I used to write detailed project requirements, and now I also get to follow them.</p>
 
-- 🎓 **Business connoisseur!** I hold a Master's degree in International Business from Tilburg University.
+- 🎓 **Business connoisseur!** I hold a Master's degree in Strategic Management from Tilburg University.
 
 - 🏃 **I can sprint 100m faster than my Wi-Fi connection** — under 15 seconds! 
 
