@@ -5,7 +5,7 @@
 
 <h1 align="center"> 👋 Hi, I'm Konstantin </h1>
 
-<p align="left">For over 10 years I've managed business projects. I used to write detailed project requirements, and now I also get to follow them.</p>
+<p align="left">For over 15 years, I've managed business projects. I used to write detailed project requirements, and now I also execute them.</p>
 
 - 🎓 **Business connoisseur!** I hold a Master's degree in Strategic Management from Tilburg University.
 
