@@ -15,7 +15,7 @@
 
 - 📫 **Reach me on Discord:** [petrusja](https://discordapp.com/users/448093026095595530).
 
-- 📄 **Want to see my professional side?** Check out my [CV](https://petruse4ka.github.io/rsschool-cv/).
+- 📄 **Want to see my professional side?** Check out my [CV](https://petruse4ka.github.io/).
 
 ---
 
