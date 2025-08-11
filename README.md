@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
   <img src="https://img.shields.io/badge/-Airbnb-FF5A5F?style=for-the-badge&logo=Airbnb&logoColor=white" alt="Airbnb"/>
   <img src="https://img.shields.io/badge/-Unicorn-FF69B4?style=for-the-badge&logo=Unicorn&logoColor=white" alt="Unicorn"/>
