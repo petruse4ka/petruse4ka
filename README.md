@@ -36,10 +36,12 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/-Vitest-FFD600?style=for-the-badge&logo=Vitest&logoColor=black" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=Ant%20Design&logoColor=white" alt="Ant Design"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 
