@@ -7,9 +7,11 @@
 
 <p align="left">For over 15 years, I've managed business projects. I used to write detailed project requirements, and now I also execute them.</p>
 
+- 💡 I create smart, clean, and creative web solutions with React, Next.js, and TypeScript - fast, intuitive, and built to last.
+
 - 🎓 **Business connoisseur!** I hold a Master's degree in Strategic Management from Tilburg University.
 
-- 🏃 **I can sprint 100m faster than my Wi-Fi connection** — under 15 seconds! 
+- 🏃 **I can sprint 100m faster than my Wi-Fi connection** — under 14 seconds! 
 
 - 🎮 **I'm Faceit Level 10 in CS2** — basically, a digital ninja with a keyboard and a mouse!
 
