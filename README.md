@@ -5,11 +5,13 @@
 
 <h1 align="center"> 👋 Hi, I'm Konstantin </h1>
 
-<p align="left">For over 15 years, I've managed business projects. I used to write detailed project requirements, and now I also execute them.</p>
+<p align="left">For over 15 years, I worked as a project manager — preparing detailed project plans, defining requirements, coordinating teams, monitoring progress, and delivering successful business solutions end-to-end. Today, I apply the same strategic mindset and execution skills to front-end development.</p>
 
 - 💡 I create smart, clean, and creative web solutions with React, Next.js, and TypeScript - fast, intuitive, and built to last.
 
 - 🎓 **Business connoisseur!** I hold a Master's degree in Strategic Management from Tilburg University.
+
+- 🤝 Mentor at [RS School](https://rs.school/): I share knowledge, review code, and help aspiring developers grow into confident professionals.
 
 - 🏃 **I can sprint 100m faster than my Wi-Fi connection** — under 14 seconds! 
 
