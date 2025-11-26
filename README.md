@@ -5,7 +5,7 @@
 
 <h1 align="center"> 👋 Hi, I'm Konstantin </h1>
 
-<p align="left">For over 15 years, I worked as a project manager — preparing detailed project plans, defining requirements, coordinating teams, monitoring progress, and delivering successful business solutions end-to-end. Today, I apply the same strategic mindset and execution skills to front-end development.</p>
+<p align="left">For over 15 years, I worked as a project manager - preparing detailed project plans, defining requirements, coordinating teams, monitoring progress, and delivering successful business solutions end-to-end. Today, I apply the same strategic mindset and execution skills to front-end development.</p>
 
 - 💡 I create smart, clean, and creative web solutions with React, Next.js, and TypeScript - fast, intuitive, and built to last.
 
@@ -13,9 +13,9 @@
 
 - 🤝 Mentor at [RS School](https://rs.school/): I share knowledge, review code, and help aspiring developers grow into confident professionals.
 
-- 🏃 **I can sprint 100m faster than my Wi-Fi connection** — under 14 seconds! 
+- 🏃 **I can sprint 100m faster than my Wi-Fi connection** - under 14 seconds! 
 
-- 🎮 **I'm Faceit Level 10 in CS2** — basically, a digital ninja with a keyboard and a mouse!
+- 🎮 **I'm Faceit Level 10 in CS2** - basically, a digital ninja with a keyboard and a mouse!
 
 - 📫 **Reach me on Discord:** [petrusja](https://discordapp.com/users/448093026095595530).
 
